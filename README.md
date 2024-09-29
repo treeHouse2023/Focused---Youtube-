@@ -38,10 +38,6 @@ To install the extension manually:
 4. Click **Load unpacked** and select the folder where the extension is saved.
 5. Open YouTube to see the extension in action.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 If you find this extension useful, feel free to star the repository and share your feedback!
